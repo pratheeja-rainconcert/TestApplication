@@ -16,7 +16,7 @@ public class MainActivity extends ActionBarActivity {
     }
 //new method added for testing.
     public void fn(){
-
+//test code here
     }
     @Override
     public boolean onCreateOptionsMenu(Menu menu) {
